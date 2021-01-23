@@ -1,0 +1,145 @@
+@media(max-width:1600px){
+  .intortxt p{
+  	font-size: 25px;
+  }
+}
+@media(max-width: 1100px) {
+  .logo{
+    width:100px;
+  }
+  .logo img{
+    width:100px;
+  }
+  .navigation {
+    margin-left: 59px;
+  }
+  .navebar{
+    margin-top: 0;
+    margin-bottom: 0;
+    display: none;
+  }
+  .select-menu{
+  	display:block;
+  }
+  .passiontitle{
+    margin-left: 35px;
+  }
+  .teamtitle{
+    margin-left: 100px;
+  }
+}
+@media(max-width:865px){
+  .imgcarus{
+    width:300px;!important
+    height:300px;!important
+    overflow: hidden;
+  }
+  .formdiv form input{
+    width:400px;
+  }
+  .formdiv form textarea{
+    width:400px;
+    height:200px;
+    vertical-align: top;
+  }
+  .contactus h5{
+    font-size: 15px;
+  }
+  .contactus h1{
+    font-size: 15px;
+  }
+  .passiontitle h6{
+    font-size: 20px;
+  }
+  .passiontitle h1{
+    font-size: 20px;
+  }
+  #middtext{
+    max-width: 300px;
+  }
+  #lastlong{
+    width:300px;
+  }
+  .marks div img{
+    display: none;
+  }
+  .worker img{
+    width:150px;
+  }
+  .imgconteiner img{
+    width:200px;
+    height:100px;
+  }
+  .imghover{
+    width:250px;
+    height:100px;
+  }
+  .presentlogo img{
+    width:600px;
+    height:484px;  
+  } 
+  .newsimg{
+    width:200px;
+    height:200px;
+  }
+  .costume{
+    width:200px;
+  }
+  .worker hr{
+    width:100px;
+  }
+  .infob {
+    display: block;
+    margin-bottom: 15px;
+    width:150px;
+  }
+  .sincedesc p{
+    width:150px;
+  }
+  .currentnews{
+    width:200px;
+    height:200px;
+  }
+  .newshover{
+    width:200px;
+    height:200px;
+  }
+  .bottom-left{
+    font-size: 15px;
+  }
+  .formdiv form{
+    width:320px;;
+  }
+}
+@media(max-width: 650px){
+  .teamtitle{
+    margin-left: 0px;
+  }
+  .teamtitle h1{
+    font-size: 30px;
+  }
+ .presentlogo img{
+  width:400px;
+  height:284px;  
+} 
+
+.textPart p{
+  font-size: 28px;
+} 
+.sincedesc div{
+  width:200px;
+}
+.imgcarus{
+  width:200px;!important
+  height:200px;!important
+  overflow: hidden;
+}
+.formdiv form input{
+  width:200px;
+}
+.formdiv form textarea{
+  width:200px;
+  height:200px;
+  vertical-align: top;
+}
+}
